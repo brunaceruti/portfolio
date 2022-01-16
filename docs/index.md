@@ -1,16 +1,16 @@
-# About this work
+# Bruna Ceruti - Portfólio em Engenharia e Análise de Dados
 
 This works addresses the problem of automatic image colorization using deep learning techniques. We explore a way of generating colored images from grayscale images with some degree of spatial control, so we could get partial colored images with an artistic effect if desired.
 
 This project was developed as a conclusion work for the course *<a href="http://lvelho.impa.br/ip18/" target="_blank">Fundamentals and Trends in Vision and Image Processing</a>* (August-November, 2018) at IMPA, which had the theme *from Data to Generative Models*.
 
 
-# Inspirations
+# Sobre mim
 
 There are multiple works about colorization with many different results to be pursued. We can think of automatic photorealistic colorization, color correction, color transfer between images, quantization, tone mapping, colorization from grayscale or recolonization restricted to some criteria like a specific color palette or specific degrees of some metric like saturation, constrast, brightness etc. In this section we'll present some ideas and related works that were used as technical references at this work or inspired us in some way.
 
 
-## Artistic neural style transfer
+## Habilidades
 
 One of the most impressive and deeply used results to disseminate the advances reached in the area is artistic style transfer. Not only it generates beautiful and astonishing images but also It is something of ease access for someone who is a layperson on the subject. When we show people images like those in Figure 1, they can easily understand the relationship between them and usually ask the question: *"did a computer do that?"*.
 
@@ -21,7 +21,7 @@ One of the most impressive and deeply used results to disseminate the advances r
 
 The work of (Gatys, 2016) addresses artistic style transfer using neural networks as a patterns recognizer and an optimization tool, presenting the features that should be computed and used from the layers of the neural network. The paper also describes how to compute an objetive function, or loss function, using these features. We didn't want to try to extend the results on artistic style transfer, but we did want to achieve something that could be used in an artistic way. This application could be either by generating new images directly or by acting as a tool to facilitate artist's work.
 
-## Classical works
+## Projetos Publicados em Engenharia e Análise de Dados
 
 Following the ideia of style transfer, one could think about a "color transfer" or "recoloring tool", which could be thought as a a way of transposing the colors of a source image or a selected palette to a target image. Many years ago, Reinhard (Reinhard, 2001) presented a color transfer algorithm based on statistical metrics as the **mean** and the **standard deviation** of the values in each channel of the image — looking at the LAB space. 
 
@@ -43,14 +43,14 @@ On the other hand, acting with spatial information, Levin (Levin, 2004) presente
 Note that none of these works deals with neural networks, but since they are based on optimization techniques and statistical metrics of the images, it is reasonable to suppose that it's possible to construct and train neural networks capable of reproducing similar results. We didn't follow this path though.
 
 
-## Neural networks and colorization
+## Experiência Profissional
 
 When we search for image colorization in the context of deep learning we can find a variety of works interested in make a computer guess the colors of a grayscale image making it a photorealistic colored scene. Based only on the value of luminance and some spatial information, we have largely degrees of freedom in the task of computing color information, which makes the problem ill-posed.
 
 Researching about colorization with neural networks, we identified basically 3 strategies to solve the problem. The first one consists of trying to modify the input image extrapolating (or extending) the concept of backpropagation; one can think of this as if we used the inputs to the network as a hidden layer and updated the values with back-propagation. The second ideia is to try to estimate a color for each pixel of the image, something similar to a regression – that's the approach at (Zhang, 2016) for example. The last strategy is the use of Generative Adversarial Networks.
 
 
-# Goal 
+# Contato 
 
 With the idea of making something with a potential artistic style and some knowledge about the solutions which addressed some problems in the colorization area, we decided to make colorization with some degree of spatial control. We would like to build a way to get partial colorization of images and achieve artistic results like those presented in figure 4.
 
