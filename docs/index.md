@@ -7,10 +7,14 @@ This project was developed as a conclusion work for the course *<a href="http://
 
 # Sobre mim
 
-There are multiple works about colorization with many different results to be pursued. We can think of automatic photorealistic colorization, color correction, color transfer between images, quantization, tone mapping, colorization from grayscale or recolonization restricted to some criteria like a specific color palette or specific degrees of some metric like saturation, constrast, brightness etc. In this section we'll present some ideas and related works that were used as technical references at this work or inspired us in some way.
+Possuo graduação em Engenharia e tenho experiência de 8 anos no mercado de Oleo e Gás. Eu sempre fui muito interessada na área de tecnologia, por estruturar e tornar processos mais eficientes e também aprender como eles funcionam. Entendo também que o acesso a informação de todos dentro de uma organização é fundamental para tomada de decisões estratégicas acertadas e vejo que a área dados é uma ferramenta chave para levar a informação correta, precisa e de forma segura para os usuários e gestores da organização.
+Meu principal objetivo é contribuir em projetos em diferentes áreas do conhecimento, aprendendendo sempre e conectando pessoas através da análise e engenharia de dados.
 
 
 ## Habilidades
+
+Background: Python, SQL, PowerBI
+
 
 One of the most impressive and deeply used results to disseminate the advances reached in the area is artistic style transfer. Not only it generates beautiful and astonishing images but also It is something of ease access for someone who is a layperson on the subject. When we show people images like those in Figure 1, they can easily understand the relationship between them and usually ask the question: *"did a computer do that?"*.
 
