@@ -7,7 +7,7 @@ This project was developed as a conclusion work for the course *<a href="http://
 
 # Sobre mim
 
-Possuo graduação em Engenharia e tenho experiência de 8 anos no mercado de Oleo e Gás. Eu sempre fui muito interessada na área de tecnologia, por estruturar e tornar processos mais eficientes e também aprender como eles funcionam. Entendo também que o acesso a informação de todos dentro de uma organização é fundamental para tomada de decisões estratégicas acertadas e vejo que a área dados é uma ferramenta chave para levar a informação correta, precisa e de forma segura para os usuários e gestores da organização.
+Sou Engenheira Metalurgista por formação e tenho experiência de 8 anos no mercado de Oleo e Gás. a área de tecnologia, por estruturar e tornar processos mais eficientes e também aprender como eles funcionam. Para mim o acesso a informação de todos dentro de uma organização é fundamental para tomada de decisões estratégicas acertadas e a área dados é uma ferramenta chave para levar a informação correta, precisa e de forma segura para os usuários e gestores da organização.
 Meu principal objetivo é contribuir em projetos em diferentes áreas do conhecimento, aprendendendo sempre e conectando pessoas através da análise e engenharia de dados.
 
 
@@ -17,6 +17,8 @@ Background: Python, SQL, PowerBI
 
 
 One of the most impressive and deeply used results to disseminate the advances reached in the area is artistic style transfer. Not only it generates beautiful and astonishing images but also It is something of ease access for someone who is a layperson on the subject. When we show people images like those in Figure 1, they can easily understand the relationship between them and usually ask the question: *"did a computer do that?"*.
+
+<iframe title="Visualizacao_DW" width="600" height="373.5" src="https://app.powerbi.com/view?r=eyJrIjoiNWE5YzBhNDctMDNlYi00ZDNjLTkxZGUtODg1YmQ2NzAwMGMwIiwidCI6IjM5MmFmMTg2LWJjZTAtNDk0ZS1hNmIzLWZhNDc2ZmNhOTk0ZiJ9&embedImagePlaceholder=true&pageName=ReportSection5f1c79e3a12ac92ee197" frameborder="0" allowFullScreen="true"></iframe>
 
 <figure>
 <img src='https://github.com/hallpaz/colorization-masks-gans/blob/master/docs/imgs/style_transfer.png?raw=true' alt='Artistic style transfer'/>
